@@ -36,7 +36,7 @@ We mark any symbols we intend to import from JavaScript as _weak_.
     - `long long` compiles to `i64` tho
 
     Still not sure why we had to make this change.
-    I'm assumnig in WASM32 pointers are 32-bit.
+    I'm assuming in WASM32 pointers are 32-bit.
 
 - https://stackoverflow.com/a/18901123
 
